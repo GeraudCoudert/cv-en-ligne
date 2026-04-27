@@ -1,0 +1,19 @@
+title: "Géraud COUDERT | Développeur Full-Stack SLAM"
+email: "geraud.coudert@btsinfo-aurillac.fr"
+description: >- # Cette description apparaît sur Google et les réseaux sociaux
+  Étudiant en BTS SIO option SLAM, passionné par le développement d'applications 
+  robustes et l'architecture logicielle. Découvrez mes projets et mes compétences.
+
+# Configuration des liens sociaux (affichés par le thème Minima)
+github_username:  GeraudCoudert
+linkedin_username: geraud-coudert
+
+# URL GitHub Pages
+url: "https://geraudcoudert.github.io"
+baseurl: "/cv-en-ligne"
+
+# Paramètres de build
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
