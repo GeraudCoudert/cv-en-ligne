@@ -17,7 +17,7 @@ title: Accueil
 
 ## À propos
 
-Étudiant en **2ème année de BTS SIO option SLAM** au lycée Émile Duclaux d'Aurillac, je développe des applications web et mobiles depuis deux ans dans un contexte professionnel.
+Étudiant en **2ème année de BTS SIO option SLAM** au lycée Monnet Mermoz d'Aurillac, je développe des applications web et mobiles depuis deux ans dans un contexte personnel.
 
 Je construis des solutions concrètes : backends API sécurisés, applications Android, outils d'automatisation et sites web. J'attache de l'importance à la qualité du code, à la documentation et au travail en équipe via Git.
 
