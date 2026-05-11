@@ -8,8 +8,8 @@ permalink: /competences/
 
 | Diplôme | Établissement | Période |
 |---|---|---|
-| **BTS SIO option SLAM** | Lycée Émile Duclaux, Aurillac (15) | 2024 – 2026 |
-| **Bac Pro SN SSIHT** | — | 2025 |
+| **BTS SIO option SLAM** | Lycée MONNET MERMOZ, Aurillac (15) | 2025 – 2027 |
+| **Bac Pro SN SSIHT** | Lycée MONNET MERMOZ, Aurillac (15) | 2025 |
 
 ---
 
