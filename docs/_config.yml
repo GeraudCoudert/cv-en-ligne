@@ -19,7 +19,7 @@ url: "https://geraudcoudert.github.io"
 baseurl: "/cv-en-ligne"
 
 # Paramètres de build
-theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
