@@ -35,7 +35,7 @@ Réalisations concrètes développées dans le cadre de ma formation BTS SIO SLA
   <p><strong>Réalisations :</strong></p>
   <ul>
     <li>Développement du plugin en <strong>Java</strong> avec l'API Paper (events, commandes, configuration YAML)</li>
-    <li>Création d'un site web d'administration et de présentation du serveur</li>
+    <li>Création d'un site web servant d'outil de création personalisé ( http://zaza.serv.gs:3000 )</li>
     <li>Hébergement sur infrastructure personnelle</li>
   </ul>
   <span class="tag">Java</span>
